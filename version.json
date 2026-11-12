@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "version_code": 10,
+  "download_url": "https://b24.engpx.ru/file/fthIUYnkewzkVtSXb6CE",
+  "release_date": "2026-11-12",
+  "is_mandatory": false,
+  "whats_new": [
+    "первый релиз"
+  ],
+  "min_supported_version": "2.0"
+}
